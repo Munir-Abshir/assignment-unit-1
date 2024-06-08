@@ -13,16 +13,23 @@ h1 {
 }
 /* Make your p tag a different color and italic */
 p{
-    color:rgb(212, 88, 88);
+    color:rgb(246, 43, 43);
     font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
 }
 /* Put a border around your image */
 img {
     border: 30pt;
+    width: 80pt;
+    height: 75pt;
+    border-color: black;
 }
 /* Change the font-family of your list */
 ul {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(25, 23, 23);
     
 }
 /* Add a background color to the footer element */
