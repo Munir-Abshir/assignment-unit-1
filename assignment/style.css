@@ -13,7 +13,7 @@ h1 {
 }
 /* Make your p tag a different color and italic */
 p{
-    color:rgb(246, 43, 43);
+    color:rgb(184, 52, 52);
     font-style: italic;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
@@ -21,9 +21,9 @@ p{
 }
 /* Put a border around your image */
 img {
-    border: 30pt;
-    width: 80pt;
-    height: 75pt;
+    border: 30%;
+    width: 90pt;
+    height: 85pt;
     border-color: black;
 }
 /* Change the font-family of your list */
@@ -34,6 +34,6 @@ ul {
 }
 /* Add a background color to the footer element */
 footer {
-    background-color: rgb(102, 163, 183);
-    font-size: 15pt;
+    background-color: rgb(18, 95, 176);
+
 }
